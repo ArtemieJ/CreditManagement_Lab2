@@ -1,5 +1,5 @@
 
-# Sistem de Gestionare a Crefitelor
+# Sistem de Gestionare a Creditelor
 
 Acest proiect reprezintă un sistem de gestionare a clienților, creditelor și plăților într-o aplicație Java folosind **Spring Framework** pentru Dependency Injection și **Lombok** pentru simplificarea codului.
 
