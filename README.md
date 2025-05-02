@@ -91,9 +91,9 @@ com.credit.crefitmanagement/
 În `MainApp.java`, când rulezi aplicația, ea va afișa detaliile unui client, credit și plată:
 
 ```plaintext
-Client: Client{id=1, nume='Ion Popescu', email='ion@email.com', address='Strada Florilor', numar=123456, varsta=30}
-Credit: Credit{idCredit=101, numeClient='Ion Popescu', sumaImprumutata=50000.0, rataDobanzii=7.5, perioadaInLuni=24, esteAprobat=true}
-Plata: Plata{idPlata=1001, idCredit=101, sumaPlatita=1200.5, dataPlatii='2025-05-03', metodaPlata='Transfer bancar', intarziere=false, penalizare=0.0}
+Client: Client(id=1, nume=Petrasco Bogdan, email=redan200@gmail.com, address=Mircea cel Batrin 17, numar=373911911, varsta=21)
+Credit: Credit(idCredit=1, numeClient=Petrasco Bogdan, sumaImprumutata=10000.0, rataDobanzii=13.0, perioadaInLuni=36, esteAprobat=true)
+Plata: Plata(idPlata=1, idCredit=1, sumaPlatita=5000.0, dataPlatii=30.03.2004, metodaPlata=Transfer MIA, intarziere=false, penalizare=0.0)
 ```
 
 ## Concluzie
